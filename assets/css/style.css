@@ -1,0 +1,44 @@
+* {
+
+    box-sizing: border-box;
+}
+
+body {
+
+    position: relative;
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-size: 16px;
+    line-height: 35px;
+    background: url("../images/Trivia.jpg");
+}
+
+h1 {
+
+    margin: 35px 0 0 0;
+    text-align: center;
+    font-size: 60px;
+    line-height: 69px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color: #000ecf;
+}
+
+#wrapper {
+
+    text-align: center;
+    margin: 0 15%;
+    padding: 30px;
+    background: yellow;
+}
+
+#subwrapper {
+
+    padding: 5% 0;
+}
+
+ #start{
+
+    padding: 15px 75px;
+    font-size: 20px;
+    background: #ffabf8;
+    border: 2px solid #000ecf;
+}
